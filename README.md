@@ -13,7 +13,9 @@ This project demonstrates adaptive layouts and fluid designs to provide an optim
 
 ## 📸 Screenshot
 
-![Responsive Web Screenshot](./screenshot.png) <!-- أضف صورة حقيقية هنا إذا متوفرة -->
+![Responsive Web Screenshot](./screenshot-1.png) <!-- أضف صورة حقيقية هنا إذا متوفرة -->
+![Responsive Web Screenshot](./screenshot-2.png) <!-- أضف صورة حقيقية هنا إذا متوفرة -->
+![Responsive Web Screenshot](./screenshot-3.png) <!-- أضف صورة حقيقية هنا إذا متوفرة -->
 
 ---
 
