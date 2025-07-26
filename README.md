@@ -7,7 +7,7 @@ This project demonstrates adaptive layouts and fluid designs to provide an optim
 
 ## 🚀 Live Demo
 
-🌐 [View Live Demo](https://abd-el-rahman-adel-dev.github.io/responsiveWeb/)
+🌐 [View Live Demo](https://codebyabdo.github.io/responsiveWeb/)
 
 ---
 
@@ -69,8 +69,8 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 🙋‍♂️ Author
 
-- [Abd El-Rahman Adel](https://github.com/abd-el-rahman-adel-dev)
-- [LinkedIn](https://www.linkedin.com/in/abdelrahman-adel-webdev)
+- [Abd El-Rahman Adel](https://github.com/codebyabdo)
+- [LinkedIn](https://www.linkedin.com/in/codebyabdo)
 
 ---
 
